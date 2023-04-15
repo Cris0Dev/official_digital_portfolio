@@ -1,2 +1,2 @@
-# My porfesional portfolio
-official_digital_portfolio
+# My profesional portfolio
+Official digital portfolio
